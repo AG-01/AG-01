@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Armaan</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ag-01&label=Profile%20views&color=0e75b6&style=flat" alt="ag-01" /> </p>
 
-- 🌱 I’m currently learning **JavaScript,React.Js and Solidity**
+- 🌱 I’m currently learning **JavaScript and Solidity**
 
 - 💬 Ask me about **ML,DL**
 
